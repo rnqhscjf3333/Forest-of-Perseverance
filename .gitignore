@@ -1,3 +1,10 @@
 
 Saved/
 Saved/Logs/Preservation.log
+Intermediate/
+DerivedDataCache/
+Build/
+Binaries/
+.vs/
+*.db
+*.suo
